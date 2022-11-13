@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sawogus29.github.io/csb-4166h4/static/css/main.d516a884.chunk.css",
+    "main.js": "https://sawogus29.github.io/csb-4166h4/static/js/main.3433b8f8.chunk.js",
+    "main.js.map": "https://sawogus29.github.io/csb-4166h4/static/js/main.3433b8f8.chunk.js.map",
+    "runtime-main.js": "https://sawogus29.github.io/csb-4166h4/static/js/runtime-main.494a5e5a.js",
+    "runtime-main.js.map": "https://sawogus29.github.io/csb-4166h4/static/js/runtime-main.494a5e5a.js.map",
+    "static/js/2.e5a09452.chunk.js": "https://sawogus29.github.io/csb-4166h4/static/js/2.e5a09452.chunk.js",
+    "static/js/2.e5a09452.chunk.js.map": "https://sawogus29.github.io/csb-4166h4/static/js/2.e5a09452.chunk.js.map",
+    "index.html": "https://sawogus29.github.io/csb-4166h4/index.html",
+    "static/css/main.d516a884.chunk.css.map": "https://sawogus29.github.io/csb-4166h4/static/css/main.d516a884.chunk.css.map",
+    "static/js/2.e5a09452.chunk.js.LICENSE.txt": "https://sawogus29.github.io/csb-4166h4/static/js/2.e5a09452.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.494a5e5a.js",
+    "static/js/2.e5a09452.chunk.js",
+    "static/css/main.d516a884.chunk.css",
+    "static/js/main.3433b8f8.chunk.js"
+  ]
+}
